@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Alex - Your American English Buddy",
+  "description": "A high-fidelity English speaking practice app featuring Alex, a friendly American tutor, for natural, real-time conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
